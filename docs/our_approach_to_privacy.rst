@@ -3,6 +3,8 @@ Our Approach to Privacy
 
 Buzzvil offers users the best and innovative experience through the mobile lockscreen which is the first impression. At the same time, we do our best to protect user’s privacy so that they can trust our services. Buzzvil establishes basic principles to store, process and dispose of personal data in an appropriate and legitimate way, and explains how to use the data when using the service.
 
+
+
 Privacy Principles
 ------------------
 
@@ -22,6 +24,8 @@ Buzzvil is transparently disclosing how the information is used and managed. Our
 
 From the development stage, every team members of Buzzvil keeps privacy in mind. We are also concerned about the security of our users by designating a DPO that oversees everything related to personal data. We comply with privacy laws, and additionally work with regulators and related partners.
 
+
+ 
  
 Advertising
 -----------
@@ -30,9 +34,13 @@ We check the ad creatives on a regular basis to prevent inappropriate or fraudul
 Advertisers can use usage information through cookies or mobile advertising identifiers, device information and location data for ad targeting. However, now that this information is anonymized, no one can identify a specific user through it. Also, no advertiser is able to collect sensitive information such as religion, sexual orientation, or health to serve ads.
 
 
+
+
 Reward
 ------
 If you participate in the ads shown on the lock screen (click, install, like, etc.), you will receive points equal to the agreed amount in rewards. Using the information to identify users, we track the activities to avoid abuse and pay without missing points. So this information may be partially available to third-party advertisers' sites and apps. In addition, Buzzvil is committed to detecting and preventing fraudulent ad manipulations. If you participated in the ad but have not received the reward, please let us know through "Help & Feedback" within the apps and you'll be able to get more detailed instructions.
+
+
 
 
 Content
