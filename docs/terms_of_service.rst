@@ -1,14 +1,14 @@
 Terms of Service
 ================
 
-I. ABOUT THIS AGREEMENT
------------------------
+**1. ABOUT THIS AGREEMENT**
+
 
 The following terms and conditions govern download and use of the Honeyscreen smartphone and mobile device application (“Honeyscreen” thereafter). Honeyscreen is owned and operated by Buzzvil Co., ltd, a company duly organized and validly existing under the laws of Republic of Korea (“Company” thereafter).
 
 
-II. DEFINITION OF TERMS
------------------------
+**2. DEFINITION OF TERMS**
+
 
 ① “Service” means mobile advertising service from which Users can earn points or read content in return for providing advertising slots in 1st screen of device (including smartphone, tablet, PC, and so on).
 
@@ -25,8 +25,8 @@ II. DEFINITION OF TERMS
 ⑦ “Trial User” means interim User who did not go through official sign-up process that Honeyscreen defined. Trial User is partially limited to use Honeyscreen.
 
 
-III. CHANGE OF AGREEMENT
-------------------------
+**3. CHANGE OF AGREEMENT**
+
 
 ① Company reserves the right at any time to modify this Agreement and to impose new or additional terms or conditions on his or her use of Service. Such modifications and additional terms and conditions will be effective immediately and incorporated into this Agreement. User’s continued use of Service will be deemed acceptance thereof.
 
@@ -42,8 +42,8 @@ SMS
 Other Methods that Company selected
 
 
-IV. ENROLLMENT INTO SERVICE
----------------------------
+**4. ENROLLMENT INTO SERVICE**
+
 
 ① Service is enrolled and Agreement starts to take effect when User agrees on this Agreement and Privacy & Policy and signs up Service and when Company accepts enrollment.
 
@@ -56,16 +56,16 @@ IV. ENROLLMENT INTO SERVICE
 ⑤ Company can provide advertising or Service-related information via e-mail or SMS for better service operation. In case that user does not want, he or she can refuse to receive the information via request.
 
 
-V. CHANGE IN USER INFORMATION
------------------------------
+**5. CHANGE IN USER INFORMATION**
+
 
 ① User can change User information via profile change tab in Service. However, User cannot change unique devicer identifier, ID, etc.
 
 ② User shall update information in case that personal information changes. All responsibility that occurs from late update of information rests on User.
 
 
-VI. TERMINATION OF SERVICE
---------------------------
+**6. TERMINATION OF SERVICE**
+
 
 ① User can terminate Service whenever he or she wants.
 
@@ -82,16 +82,16 @@ When User illegitimately hinders other User from using Service
 When User jeopardizes security or reliability of Service
 
 
-VII. POINT AFTER TERMINATION
-----------------------------
+**7. POINT AFTER TERMINATION**
+
 
 ① When User terminates Service, remaining Point that User has automatically perishes permanently and User is prohibitted to re-enroll within 7 days.
 
 ② In case that User terminates Service in Article 6.2, remaining Point that User has automatically perishes permanantly and User is prohibitted to re-enroll thereafter.
 
 
-VIII. CHANGE OR SUSPENSION OF SERVICE
--------------------------------------
+**8. CHANGE OR SUSPENSION OF SERVICE**
+
 
 ① Company can change Service under reasonable judgement on content, quality, or technical requirements.
 
@@ -100,8 +100,8 @@ VIII. CHANGE OR SUSPENSION OF SERVICE
 ③ When Company change or suspend Service, Company shall notify Users via SMS or announcement in Webpage.
 
 
-IX. POINT ACCUMULATION
-----------------------
+**9. POINT ACCUMULATION**
+
 
 ① User can accumulate Point when User see and make actions required from Advertiser that is shown via device. Advertisement can target User with specific profile.
 
@@ -114,8 +114,8 @@ IX. POINT ACCUMULATION
 ⑤ User cannot transfer Point to other User unless it is approved by Company with legitimate process.
 
 
-X. CHANGE, CANCELLATION OR EXPIRATION OF POINT
-----------------------------------------------
+**10. CHANGE, CANCELLATION OR EXPIRATION OF POINT**
+
 
 ① In case that there occurs error in Point accumulation, User shall request change within 90 days from the day when error occurs, and Company shall accept or reject request within 90 days from User request.
 
@@ -124,14 +124,14 @@ X. CHANGE, CANCELLATION OR EXPIRATION OF POINT
 ③ In case that User does not use Service for 3 months in a row, Point that User accumulated can be expired.
 
 
-XI. ACCOUNT
------------
+**11. ACCOUNT**
+
 
 ① As a registered User of the Service, User may establish Account. Don’t reveal Account information to anyone else. User is solely responsible for maintaining the confidentiality and security of his or her Account and for all activities that occur on or through his or her Account, and User agrees to immediately notify Buzzvil of any security breach of Account. Buzzvil shall not be responsible for any losses arising out of the unauthorized use of User’s Account.
 
 
-XII. DISCLAIMER OF WARRANTIES; LIABILITY LIMITATION
----------------------------------------------------
+**12. DISCLAIMER OF WARRANTIES; LIABILITY LIMITATION**
+
 
 ① BUZZVIL DOES NOT GUARANTEE, REPRESENT, OR WARRANT THAT USE OF THE SERVICE WILL BE UNINTERRUPTED OR ERROR-FREE, AND USER AGREES THAT FROM TIME TO TIME BUZZVIL MAY REMOVE THE SERVICE FOR INDEFINITE PERIODS OF TIME, OR CANCEL THE SERVICE AT ANY TIME, WITHOUT NOTICE TO USER.
 
@@ -140,8 +140,8 @@ XII. DISCLAIMER OF WARRANTIES; LIABILITY LIMITATION
 ③ BUZZVIL DOES NOT REPRESENT OR GUARANTEE THAT THE SERVICE WILL BE FREE FROM LOSS, CORRUPTION, ATTACK, VIRUSES, INTERFERENCE, HACKING, OR OTHER SECURITY INTRUSION, AND BUZZVIL DISCLAIMS ANY LIABILITY RELATING THERETO.
 
 
-XIII. USAGE RULES
------------------
+**13. USAGE RULES**
+
 
 User shall not intentionally or inadvertently act as below.
 
@@ -158,8 +158,8 @@ Modification of the software that is provided by Buzzvil to access the Service i
 No access or attempt to access an Account that User is not authorised to access.
 
 
-XIV. TRIAL LOGIN
-----------------
+**14. TRIAL LOGIN**
+
 
 ① User can use the Service without sign-up procress via Trial mode login.
 
@@ -174,8 +174,8 @@ XIV. TRIAL LOGIN
 ⑥ In case that User delete Honeyscreen from device during Trial Login period, Point that Trial User accumulate shall perish automatically.
 
 
-XV. INTELLECTUAL PROPERTY
--------------------------
+**15. INTELLECTUAL PROPERTY**
+
 
 ① User agrees that the Service, including but not limited to Honeyscreen, graphics, user interface, audio clips, video clips, editorial content, and the scripts and software used to implement the Service, contains proprietary information and material that is owned by Buzzvil and/or its licensors, and is protected by applicable intellectual property and other laws, including but not limited to copyright. User agrees that he or she will not use such proprietary information or materials in any way whatsoever except for use of the Service in compliance with this Agreement. No portion of the Service may be reproduced in any form or by any means, except as expressly permitted in these terms. User agrees not to modify, rent, lease, loan, sell, distribute, or create derivative works based on the Service in any manner, and User shall not exploit the Service in any unauthorized way whatsoever, including, but not limited to, by trespass or burdening network capacity.
 
@@ -186,27 +186,27 @@ XV. INTELLECTUAL PROPERTY
 ④ Buzzvil, the Buzzvil logo, Honeyscreen, and other Buzzvil trademarks, service marks, graphics, and logos used in connection with the Service are trademarks or registered trademarks of Buzzvil. in the U.S. and/or other countries. Other trademarks, service marks, graphics, and logos used in connection with the Service may be the trademarks of their respective owners. User is granted no right or license with respect to any of the aforesaid trademarks and any use of such trademarks.
 
 
-XVI. DISCONTINUATION OF SERVICE
--------------------------------
+**16. DISCONTINUATION OF SERVICE**
+
 
 ① In case that Company discontinues the Service, Company will notify 3 months in advance from the day when Company decides to discontinue.
 
 ② User needs to redeem Point up before the day that Company discontinues the Service. The remaining Point after discontinuation of the Service perishes automatically.
 
 
-XVII. GOVERNING LAW & ARBITRATION
----------------------------------
+**17. GOVERNING LAW & ARBITRATION**
+
 
 ① All transactions on the Service are governed by law, without giving effect to its conflict of law provisions. User’s use of the Service may also be subject to other laws. User expressly agrees that exclusive jurisdiction for any claim or dispute with the Service or relating in any way to his or her use of the Service resides in the courts of the Republic of Korea. No employee or agent has the authority to vary this Agreement.
 
 
-XVIII. THIRD-PARTY MATERIALS
-----------------------------
+**18. THIRD-PARTY MATERIALS**
+
 
 ① Certain content, products, and services available via Service may include materials from third parties. Honeyscreen may provide links to third-party websites as a convenience to User. User agrees that Honey is not responsible for examining or evaluating the content or accuracy and Honeyscreen does not warrant and will not have any liability or responsibility for any third-party materials or websites, or for any other materials, products, or services of 3rd parties. User agrees that he or she will not use any third-party materials in a manner that would infringe or violate the rights of any other party and that Service is not in any way responsible for any such use by User.
 
 
-XIX. PRIVACY POLICY
--------------------
+**19. PRIVACY POLICY**
+
 
 ① The Service is subject to Buzzvil’s Privacy Policy that User can easily check via Website (http://www.honeyscreen.com)
