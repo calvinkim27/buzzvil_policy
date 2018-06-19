@@ -1,5 +1,5 @@
 
-Buzzvil Privacy Center
+Buzzvil Policy Center
 ======================
 
 .. image:: logo_600x400.png
@@ -9,7 +9,7 @@ Buzzvil Privacy Center
 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    privacy_policy.rst
    terms_of_service.rst
